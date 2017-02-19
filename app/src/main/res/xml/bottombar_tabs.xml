@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_home"
+        title="Home" />
+    <tab
+        id="@+id/tab_committees"
+        icon="@drawable/ic_committees"
+        title="Comittees" />
+    <tab
+        id="@+id/tab_conference"
+        icon="@drawable/ic_conference"
+        title="Conference" />
+
+    <tab
+        id="@+id/tab_videos"
+        icon="@drawable/ic_videos"
+        title="Videos" />
+</tabs>
